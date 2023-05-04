@@ -6,7 +6,7 @@ The Weather API GUI is a simple graphical user interface that allows users to ch
 Latest Release / Download
 -
 
-[![release](https://img.shields.io/github/v/release/cobrel/webScrapingJavaSwingSelenium?logo=GitHub&style=for-the-badge)](https://github.com/cobrel/webScrapingJavaSwingSelenium/releases/tag/v1.1.0)
+[![release](https://img.shields.io/github/v/release/cobrel/webScrapingJavaSwingSelenium?logo=GitHub&style=for-the-badge)](https://github.com/cobrel/OpenWeatherApi-GUI/releases/tag/v1.0.0) 
 
 - To use the application, it is necessary to obtain an API key from the following website  https://openweathermap.org/
 
